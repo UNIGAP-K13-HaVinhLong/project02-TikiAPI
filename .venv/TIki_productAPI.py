@@ -70,3 +70,4 @@ def process_products():
 
 if __name__ == "__main__":
     process_products()
+
